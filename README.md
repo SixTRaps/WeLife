@@ -1,5 +1,16 @@
 # WeLife
 
+------
+Matthew Vargas Code Review: 
+* I really like your registration and login pages.  They are quite simple, and it's really good to have a confirm password.
+* something I didn't understand was the home page after logging in.  I get a blank screen with no content in it.  Is there supposed to be something there?
+* Your general.js file is really loaded with code.  Is there a better way to organize or clean it up?  The displayMoments function is really long
+* Your index.js file for your routes is really clean!  I like the added comments for each request.
+* I also like your MongoDB file, also really clean.
+* The site is really nice!  Cool project, nice work!
+------
+
+
 ## Author
 [Anni Lin](https://github.com/Annie0207)  
 [Xuejia Yang](https://github.com/SixTRaps)
