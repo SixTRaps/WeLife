@@ -133,6 +133,7 @@ router.post("/editPost", async (req, res) => {
     res.status(401).send();
   }
 });
+//Jennifer: The edit function is not working properly
 
 /* Delete a moment */
 router.post("/deletePost", async (req, res) => {
